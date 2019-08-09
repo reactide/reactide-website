@@ -15,10 +15,10 @@
   },
   "chunks": {
     "byName": {
-      "static/i7JvHbQyOon1mgMnvwNH3/pages/_app.js": 0,
-      "static/i7JvHbQyOon1mgMnvwNH3/pages/_document.js": 1,
-      "static/i7JvHbQyOon1mgMnvwNH3/pages/_error.js": 2,
-      "static/i7JvHbQyOon1mgMnvwNH3/pages/index.js": 3
+      "static/JgxvxK7YnbN4CLD2vNTf9/pages/_app.js": 0,
+      "static/JgxvxK7YnbN4CLD2vNTf9/pages/_document.js": 1,
+      "static/JgxvxK7YnbN4CLD2vNTf9/pages/_error.js": 2,
+      "static/JgxvxK7YnbN4CLD2vNTf9/pages/index.js": 3
     },
     "bySource": {},
     "usedIds": [
