@@ -6,7 +6,7 @@ export default function Banner() {
     <div className='banner'>
       <img src={logo} className='logo' />
       <img src={textLogo} className='textLogo' />
-      <h1>Reactide is the first dedicated IDE for React web application development.</h1>
+      <h1>The first dedicated IDE for React web application development</h1>
       
     </div>
   )

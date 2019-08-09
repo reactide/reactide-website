@@ -9,22 +9,22 @@ export default function Download() {
       <div className='download'>
         
         <section className='mac'>
-          <img src={macLogo} className='dlLogo' />
           <a href='https://github.com/reactide/reactide'>
+            <img src={macLogo} className='dlLogo' />
             <p className='dlp'>macOS 10.10+</p>
           </a>
         </section>
 
         <section className='windows'>
-          <img src={windowsLogo} className='dlLogo' />
           <a href='https://github.com/reactide/reactide'>
+            <img src={windowsLogo} className='dlLogo' />
             <p className='dlp'>Windows 7, 8, 10</p>
           </a>
         </section>
         
         <section className='linux'>
-          <img src={linuxLogo} className='dlLogo' />
           <a href='https://github.com/reactide/reactide'>
+            <img src={linuxLogo} className='dlLogo' />
             <p className='dlp'>Debian, Ubuntu</p>
           </a>
         </section>

@@ -8,6 +8,45 @@ export default function Index() {
     <Layout className='layout'>
       <style jsx global>
         {`
+        @media screen and (max-width: 768px) {
+          section {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+          }
+          #second {
+            flex-direction: column-reverse
+          }
+
+          .demoGif {
+            min-width: 80vw
+          }
+
+          .dlContainer {
+            margin-top: -3em;
+            margin-bottom: -3em;
+          }
+
+          .download {
+            display: flex;
+            flex-direction: column;
+          }
+
+          .dlLogo {
+            height: 65px
+          }
+
+          .dlp {
+            font-size: 12px
+          }
+
+          article {
+            margin-bottom: 1em
+          }
+
+        }
+
         body {
           background-color: #1c1f2c;
           font-family: helvetica;
@@ -15,17 +54,19 @@ export default function Index() {
         
         .layout {
           display: flex;
-          flex-directin: column;
+          flex-direction: column;
           justify-content: center;
         }
 
         p {
           font-size: 16px;
           color: white;
+          line-height: 1.5;
         }
 
         h1, h2, h3 {
           color: white;
+          line-height: 1.5;
         }
 
         h1 {
@@ -46,8 +87,8 @@ export default function Index() {
           justify-content: center;
           align-items: center;
           text-align: center;
-          margin-bottom: 90px;
-          padding-top: 30px;
+          margin-bottom: 100px;
+          padding-top: 70px;
           margin-top: 35px
         }
 
@@ -60,9 +101,7 @@ export default function Index() {
           height: 40%;
           width: 40%;
         }
-        @media screen and (max-width: 768px) {
-          
-        }
+
 
         .demo {
           background-color: #272b3d;
@@ -80,14 +119,31 @@ export default function Index() {
           display: flex;
           flex-direction: column;
           justify-content: center;
-          margin-right: 30px;
-          margin-left: 30px;
-          margin-top: -10px
+          margin-right: 4em;
+          margin-left: 4em;
+          margin-top: -10px;
+          
         }
           
         code {
         font-family: Courier, 'New Courier', monospace;
         font-size: 12px;}
+
+        #codeStyler {
+          display: flex;
+          justify-content: center;
+          margin-top: 20px
+          
+        }
+        pre {
+          background-color: black;
+          width: 200px;
+          padding: 0px 5px 5px
+        }
+
+        code {
+          color: limegreen
+        }
 
         .demoGif {
           width: 50%;
@@ -100,7 +156,8 @@ export default function Index() {
         }
 
         #first, #second, #third {
-          padding: 25px 25px !important
+          padding: 80px 25px 80px !important;
+          
         }
 
         #first, #third {
@@ -117,14 +174,14 @@ export default function Index() {
           background-color: #1c1f2c;
           margin-left: -15px;
           margin-right: -15px;
-          padding: 20px 25px;
+          
           
         }
 
         .dlContainer {
-          
           display: flex;
           justify-content: center;
+          padding: 80px;
         }
 
         .download {

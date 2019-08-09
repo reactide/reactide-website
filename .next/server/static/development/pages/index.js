@@ -155,7 +155,7 @@ module.exports = "/_next/static/images/reactide-demo2-513ad5975e741644a43ecd77ed
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/reactide-demo3-8132fd42cb4a9f1b52622a91ee14736d.png";
+module.exports = "/_next/static/images/reactide-demo3-c333b1afbc5859c990ac9a71f24ca737.png";
 
 /***/ }),
 
@@ -166,7 +166,7 @@ module.exports = "/_next/static/images/reactide-demo3-8132fd42cb4a9f1b52622a91ee
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/reactide-demo4-6c4270c28caa2eb82f628d9716fcda54.png";
+module.exports = "/_next/static/images/reactide-demo4-45c2ba5c2610716aabe069068d5f3916.png";
 
 /***/ }),
 
@@ -264,7 +264,7 @@ function Banner() {
       lineNumber: 9
     },
     __self: this
-  }, "Reactide is the first dedicated IDE for React web application development."));
+  }, "The first dedicated IDE for React web application development"));
 }
 
 /***/ }),
@@ -331,7 +331,7 @@ function Demo() {
       lineNumber: 12
     },
     __self: this
-  }, "Get right to coding. Reactide runs an integrated Node server and custom browser simulator eliminating the need to configure any servers, build-tools, and even offers hot module reloading right out of the box. This makes projects build-tool agnostic, allowing for only necceary dependancies to be added later as projects evolve as opposed to making decisions when the coding hasn\u2019t even begun.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, "Reactide runs an integrated Node server and custom browser simulator eliminating the need to configure any servers, build-tools, and even offers hot module reloading right out of the box.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     src: _assets_images_reactide_demo_png__WEBPACK_IMPORTED_MODULE_2___default.a,
     className: "demoGif",
     __source: {
@@ -347,7 +347,7 @@ function Demo() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_reactide_demo4_png__WEBPACK_IMPORTED_MODULE_5___default.a,
+    src: _assets_images_reactide_demo3_png__WEBPACK_IMPORTED_MODULE_4___default.a,
     className: "demoGif",
     id: "demoGif2",
     __source: {
@@ -367,7 +367,7 @@ function Demo() {
       lineNumber: 22
     },
     __self: this
-  }, "Streamlined configurations."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Streamlined configurations"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
@@ -411,14 +411,14 @@ function Demo() {
       lineNumber: 36
     },
     __self: this
-  }, "State flow visualization."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Components visualization"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 37
     },
     __self: this
-  }, "Components are the base unit of React and managing state across a complex web of components is often the most mentioned pain point of developing React apps. Reactide offers the first visual editing solution for today's most powerful visual UI engine. By navigating through a live-representation of your app\u2019s architecture, developers can now quickly identify and jump to relevant components and edit them on the fly.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_reactide_demo3_png__WEBPACK_IMPORTED_MODULE_4___default.a,
+  }, "Navigate through a live-representation of your app\u2019s architecture.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _assets_images_reactide_demo4_png__WEBPACK_IMPORTED_MODULE_5___default.a,
     className: "demoGif",
     __source: {
       fileName: _jsxFileName,
@@ -475,22 +475,22 @@ function Download() {
       lineNumber: 11
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_apple_logo_png__WEBPACK_IMPORTED_MODULE_1___default.a,
-    className: "dlLogo",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/reactide/reactide",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/reactide/reactide",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _assets_images_apple_logo_png__WEBPACK_IMPORTED_MODULE_1___default.a,
+    className: "dlLogo",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "dlp",
     __source: {
       fileName: _jsxFileName,
@@ -504,22 +504,22 @@ function Download() {
       lineNumber: 18
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_windows_logo_png__WEBPACK_IMPORTED_MODULE_2___default.a,
-    className: "dlLogo",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/reactide/reactide",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/reactide/reactide",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _assets_images_windows_logo_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    className: "dlLogo",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "dlp",
     __source: {
       fileName: _jsxFileName,
@@ -533,22 +533,22 @@ function Download() {
       lineNumber: 25
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_linux_logo_png__WEBPACK_IMPORTED_MODULE_3___default.a,
-    className: "dlLogo",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/reactide/reactide",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
     },
     __self: this
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/reactide/reactide",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: _assets_images_linux_logo_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    className: "dlLogo",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "dlp",
     __source: {
       fileName: _jsxFileName,
@@ -720,7 +720,7 @@ function Banner() {
       lineNumber: 9
     },
     __self: this
-  }, "Reactide is the first dedicated IDE for React web application development."));
+  }, "The first dedicated IDE for React web application development"));
 }
 
 /***/ }),
@@ -761,9 +761,9 @@ function Index() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "1854177962",
+    id: "1808122720",
     __self: this
-  }, "body{background-color:#1c1f2c;font-family:helvetica;}.layout{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-directin:column;-ms-flex-directin:column;flex-directin:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}p{font-size:16px;color:white;}h1,h2,h3{color:white;}h1{font-size:30px;font-weight:lighter;text-shadow:0 15px 15px black;margin-top:100px;}h2{font-size:20px;text-shadow:5px 10px 15px black;}.banner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;margin-bottom:90px;padding-top:30px;margin-top:35px;}.logo{height:15%;width:15%;}.textLogo{height:40%;width:40%;}@media screen and (max-width:768px){}.demo{background-color:#272b3d;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;max-width:100vw;padding:10px;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin-left:-15px;margin-right:-15px;text-align:center;}article{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin-right:30px;margin-left:30px;margin-top:-10px;}code{font-family:Courier,'New Courier',monospace;font-size:12px;}.demoGif{width:50%;height:50%;box-shadow:0 14px 25px 15px #1c1f2c;border-radius:5px;}#demoGif2{box-shadow:0 14px 25px 15px #13141c;}#first,#second,#third{padding:25px 25px !important;}#first,#third{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:10px 25px;}#third{margin-top:10px;}#second{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;background-color:#1c1f2c;margin-left:-15px;margin-right:-15px;padding:20px 25px;}.dlContainer{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}.download{width:500px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:25px;text-align:center;}.dlLogo{max-height:100px;max-width:100px;}.footer{text-align:center;}h5{color:gray;opacity:0.5;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9lcC9Db2Rlc21pdGgvcmVhY3RpZGUtd2Vic2l0ZS9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFTUyxBQUdvQyxBQUtaLEFBTUUsQUFLSCxBQUlHLEFBT0EsQUFLRixBQVdGLEFBS0EsQUFRYyxBQVlaLEFBUytCLEFBSWxDLEFBTTBCLEFBS3ZDLEFBR2dCLEFBTWhCLEFBR2dCLEFBVUEsQUFLRCxBQXVCSyxBQUtBLEFBSU4sVUFyRUEsQ0F0Q0QsQUFLQSxBQXVHRSxDQXZJZCxBQXVHZSxHQTVHRCxBQVNRLEFBT1ksQ0F5RWxDLENBMENrQixDQUtsQixHQXZHQSxBQUtBLEFBaUNzQyxFQXNFdEMsRUF4SndCLEFBd0RULEVBNUNmLEVBK0VBLElBb0RBLEVBMUhnQyxDQWtFaEMsUUFWZSxHQTVFZixBQTJCQSxVQXVEb0IsRUFOSixNQXZERyxTQWpCSSxBQTJCQyxBQW9DQSxBQTJCSixBQVNPLEFBVUYsQ0E5QnpCLE9BN0RBLElBaUdnQyxNQXhCaEMsT0F2Q2tCLEFBZ0RFLGdCQS9DTCxFQWdETSxXQS9DSSxRQWdETCxhQXJHSyxHQTJCQSxBQW9DQSxFQXdDekIsbUJBTUEsNEJBTWUsYUFDSyxhQTlESSxLQStEeEIsZ0JBcEhBLEdBMkJxQixBQW9DRCxrQkFDRCxpQkFFcEIsaUJBQUMsRUFab0Isa0JBQ0MsbUJBQ0QsRUE1QkEsZ0JBNkJwQixFQTVCcUIsbUJBQ0YsaUJBRXBCLGdCQUFDIiwiZmlsZSI6Ii9Vc2Vycy9lcC9Db2Rlc21pdGgvcmVhY3RpZGUtd2Vic2l0ZS9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMYXlvdXQgZnJvbSBcIi4uL2NvbXBvbmVudHMvTGF5b3V0XCI7XG5pbXBvcnQgQmFubmVyIGZyb20gXCIuLi9jb21wb25lbnRzL0Jhbm5lclwiO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBJbmRleCgpIHtcbiAgcmV0dXJuKFxuICAgIDxib2R5PlxuXG4gICAgPExheW91dCBjbGFzc05hbWU9J2xheW91dCc+XG4gICAgICA8c3R5bGUganN4IGdsb2JhbD5cbiAgICAgICAge2BcbiAgICAgICAgYm9keSB7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzFjMWYyYztcbiAgICAgICAgICBmb250LWZhbWlseTogaGVsdmV0aWNhO1xuICAgICAgICB9XG4gICAgICAgIFxuICAgICAgICAubGF5b3V0IHtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW46IGNvbHVtbjtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgIHAge1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgIH1cblxuICAgICAgICBoMSwgaDIsIGgzIHtcbiAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgIH1cblxuICAgICAgICBoMSB7XG4gICAgICAgICAgZm9udC1zaXplOiAzMHB4O1xuICAgICAgICAgIGZvbnQtd2VpZ2h0OiBsaWdodGVyO1xuICAgICAgICAgIHRleHQtc2hhZG93OiAwIDE1cHggMTVweCBibGFjaztcbiAgICAgICAgICBtYXJnaW4tdG9wOiAxMDBweDtcbiAgICAgICAgfVxuXG4gICAgICAgIGgyIHtcbiAgICAgICAgICBmb250LXNpemU6IDIwcHg7XG4gICAgICAgICAgdGV4dC1zaGFkb3c6IDVweCAxMHB4IDE1cHggYmxhY2s7XG4gICAgICAgIH1cbiAgICAgICAgXG4gICAgICAgIC5iYW5uZXIge1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgICBtYXJnaW4tYm90dG9tOiA5MHB4O1xuICAgICAgICAgIHBhZGRpbmctdG9wOiAzMHB4O1xuICAgICAgICAgIG1hcmdpbi10b3A6IDM1cHhcbiAgICAgICAgfVxuXG4gICAgICAgIC5sb2dvIHtcbiAgICAgICAgICBoZWlnaHQ6IDE1JTtcbiAgICAgICAgICB3aWR0aDogMTUlO1xuICAgICAgICB9XG5cbiAgICAgICAgLnRleHRMb2dvIHtcbiAgICAgICAgICBoZWlnaHQ6IDQwJTtcbiAgICAgICAgICB3aWR0aDogNDAlO1xuICAgICAgICB9XG4gICAgICAgIEBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDc2OHB4KSB7XG4gICAgICAgICAgXG4gICAgICAgIH1cblxuICAgICAgICAuZGVtbyB7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzI3MmIzZDtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIG1heC13aWR0aDogMTAwdnc7XG4gICAgICAgICAgcGFkZGluZzogMTBweDtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgICAgICAgIG1hcmdpbi1sZWZ0OiAtMTVweDtcbiAgICAgICAgICBtYXJnaW4tcmlnaHQ6IC0xNXB4O1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgIGFydGljbGUge1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICBtYXJnaW4tcmlnaHQ6IDMwcHg7XG4gICAgICAgICAgbWFyZ2luLWxlZnQ6IDMwcHg7XG4gICAgICAgICAgbWFyZ2luLXRvcDogLTEwcHhcbiAgICAgICAgfVxuICAgICAgICAgIFxuICAgICAgICBjb2RlIHtcbiAgICAgICAgZm9udC1mYW1pbHk6IENvdXJpZXIsICdOZXcgQ291cmllcicsIG1vbm9zcGFjZTtcbiAgICAgICAgZm9udC1zaXplOiAxMnB4O31cblxuICAgICAgICAuZGVtb0dpZiB7XG4gICAgICAgICAgd2lkdGg6IDUwJTtcbiAgICAgICAgICBoZWlnaHQ6IDUwJTtcbiAgICAgICAgICBib3gtc2hhZG93OiAwIDE0cHggMjVweCAxNXB4ICMxYzFmMmM7XG4gICAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgICAgICB9XG4gICAgICAgICNkZW1vR2lmMiB7XG4gICAgICAgICAgYm94LXNoYWRvdzogMCAxNHB4IDI1cHggMTVweCAjMTMxNDFjO1xuICAgICAgICB9XG5cbiAgICAgICAgI2ZpcnN0LCAjc2Vjb25kLCAjdGhpcmQge1xuICAgICAgICAgIHBhZGRpbmc6IDI1cHggMjVweCAhaW1wb3J0YW50XG4gICAgICAgIH1cblxuICAgICAgICAjZmlyc3QsICN0aGlyZCB7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDI1cHg7XG4gICAgICAgIH1cblxuICAgICAgICAjdGhpcmQge1xuICAgICAgICAgIG1hcmdpbi10b3A6IDEwcHhcbiAgICAgICAgfVxuXG4gICAgICAgICNzZWNvbmQge1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzFjMWYyYztcbiAgICAgICAgICBtYXJnaW4tbGVmdDogLTE1cHg7XG4gICAgICAgICAgbWFyZ2luLXJpZ2h0OiAtMTVweDtcbiAgICAgICAgICBwYWRkaW5nOiAyMHB4IDI1cHg7XG4gICAgICAgICAgXG4gICAgICAgIH1cblxuICAgICAgICAuZGxDb250YWluZXIge1xuICAgICAgICAgIFxuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIH1cblxuICAgICAgICAuZG93bmxvYWQge1xuICAgICAgICAgIHdpZHRoOiA1MDBweDtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcbiAgICAgICAgICBwYWRkaW5nOiAyNXB4O1xuICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgIC5kbHAge1xuICAgICAgICAgIFxuICAgICAgICB9XG5cbiAgICAgICAgLm1hYyB7XG4gICAgICAgIH1cblxuICAgICAgICAud2luZG93cyB7XG5cbiAgICAgICAgfVxuXG4gICAgICAgIC5saW51eCB7XG5cbiAgICAgICAgfVxuXG4gICAgICAgIC5kbExvZ28ge1xuICAgICAgICAgIG1heC1oZWlnaHQ6IDEwMHB4O1xuICAgICAgICAgIG1heC13aWR0aDogMTAwcHg7XG4gICAgICAgIH1cblxuICAgICAgICAuZm9vdGVyIHtcbiAgICAgICAgICB0ZXh0LWFsaWduOmNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgIGg1IHtcbiAgICAgICAgICBjb2xvcjogZ3JheTtcbiAgICAgICAgICBvcGFjaXR5OiAwLjU7XG4gICAgICAgIH1cblxuICAgICAgICBgfVxuICAgICAgPC9zdHlsZT5cbiAgICA8L0xheW91dD5cbiAgICA8L2JvZHk+XG4gIClcbn0iXX0= */\n/*@ sourceURL=/Users/ep/Codesmith/reactide-website/pages/index.js */")));
+  }, "@media screen and (max-width:768px){section{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}#second{-webkit-flex-direction:column-reverse;-ms-flex-direction:column-reverse;flex-direction:column-reverse;}.demoGif{min-width:80vw;}.dlContainer{margin-top:-3em;margin-bottom:-3em;}.download{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;}.dlLogo{height:65px;}.dlp{font-size:12px;}article{margin-bottom:1em;}}body{background-color:#1c1f2c;font-family:helvetica;}.layout{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}p{font-size:16px;color:white;line-height:1.5;}h1,h2,h3{color:white;line-height:1.5;}h1{font-size:30px;font-weight:lighter;text-shadow:0 15px 15px black;margin-top:100px;}h2{font-size:20px;text-shadow:5px 10px 15px black;}.banner{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:center;margin-bottom:100px;padding-top:70px;margin-top:35px;}.logo{height:15%;width:15%;}.textLogo{height:40%;width:40%;}.demo{background-color:#272b3d;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;max-width:100vw;padding:10px;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;margin-left:-15px;margin-right:-15px;text-align:center;}article{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin-right:4em;margin-left:4em;margin-top:-10px;}code{font-family:Courier,'New Courier',monospace;font-size:12px;}#codeStyler{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin-top:20px;}pre{background-color:black;width:200px;padding:0px 5px 5px;}code{color:limegreen;}.demoGif{width:50%;height:50%;box-shadow:0 14px 25px 15px #1c1f2c;border-radius:5px;}#demoGif2{box-shadow:0 14px 25px 15px #13141c;}#first,#second,#third{padding:80px 25px 80px !important;}#first,#third{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;padding:10px 25px;}#third{margin-top:10px;}#second{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;background-color:#1c1f2c;margin-left:-15px;margin-right:-15px;}.dlContainer{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding:80px;}.download{width:500px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;padding:25px;text-align:center;}.dlLogo{max-height:100px;max-width:100px;}.footer{text-align:center;}h5{color:gray;opacity:0.5;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9lcC9Db2Rlc21pdGgvcmVhY3RpZGUtd2Vic2l0ZS9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFTUyxBQUkwQixBQU9oQixBQUlBLEFBR21CLEFBS0gsQUFNaEIsQUFJQSxBQUlBLEFBSzBCLEFBS1osQUFNRSxBQU1ILEFBS0csQUFPQSxBQUtGLEFBV0YsQUFLQSxBQU1jLEFBWVosQUFVK0IsQUFJL0IsQUFNVSxBQU8xQixBQUdhLEFBTTBCLEFBSUYsQUFLckIsQUFNaEIsQUFHZ0IsQUFTQSxBQU1ELEFBdUJLLEFBS0EsQUFJTixVQXRFQSxDQXJERCxBQUtBLEFBdUhFLENBdkxaLEFBK0JnQixBQXdISCxHQXJLYixBQWtCQSxBQXFCWSxBQVdRLEFBT1ksQ0FyRFgsQUFzSHZCLEFBd0JBLENBMENrQixDQXRLaEIsQUEyS0YsR0F2SEEsQUFLQSxBQWdEc0MsRUFYeEIsQUFrRmQsRUExS3dCLEFBd0RULEVBNUNHLENBTWxCLEtBK0lBLENBcERBLENBcElFLEFBOEM4QixBQW1FakMsQ0FjQyxPQTNGQSxDQWlFZSxHQTdFZixBQTZCQSxRQTREQSxFQVVvQixFQXRCSixNQXRERyxTQTlETyxBQW1CQSxBQXdCRixBQTZCQSxBQWtDQSxBQWNDLEFBK0JMLEFBU08sQUFTRixDQTlCekIsT0E1RUEsSUFpSGdDLE1BeEJoQyxPQXpEa0IsQUFrRUUsR0EzSmxCLGFBMEZhLEVBa0VNLFdBakVJLFFBb0V6QixnQkFwSzJCLEFBbUJ6QixBQXdCdUIsQUE2QkEsQUFrQ0EscUJBZ0IxQixBQStDZ0IsYUFDZixHQWhEQSxZQXNEZSxhQUNLLGFBaEZJLEtBaUZ4QixtQkFqTHVCLEFBMkN2QixBQTZCcUIsQUFrQ0YsaUJBQ0QsZ0JBQ0MsaUJBRW5CLElBYm9CLGtCQUNDLG1CQUNELEVBbEdsQixBQXdFa0IsZ0JBMkJwQixFQTFCc0Isb0JBQ0gsaUJBRXBCLGdCQUFDIiwiZmlsZSI6Ii9Vc2Vycy9lcC9Db2Rlc21pdGgvcmVhY3RpZGUtd2Vic2l0ZS9wYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBMYXlvdXQgZnJvbSBcIi4uL2NvbXBvbmVudHMvTGF5b3V0XCI7XG5pbXBvcnQgQmFubmVyIGZyb20gXCIuLi9jb21wb25lbnRzL0Jhbm5lclwiO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBJbmRleCgpIHtcbiAgcmV0dXJuKFxuICAgIDxib2R5PlxuXG4gICAgPExheW91dCBjbGFzc05hbWU9J2xheW91dCc+XG4gICAgICA8c3R5bGUganN4IGdsb2JhbD5cbiAgICAgICAge2BcbiAgICAgICAgQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY4cHgpIHtcbiAgICAgICAgICBzZWN0aW9uIHtcbiAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICAgIH1cbiAgICAgICAgICAjc2Vjb25kIHtcbiAgICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW4tcmV2ZXJzZVxuICAgICAgICAgIH1cblxuICAgICAgICAgIC5kZW1vR2lmIHtcbiAgICAgICAgICAgIG1pbi13aWR0aDogODB2d1xuICAgICAgICAgIH1cblxuICAgICAgICAgIC5kbENvbnRhaW5lciB7XG4gICAgICAgICAgICBtYXJnaW4tdG9wOiAtM2VtO1xuICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogLTNlbTtcbiAgICAgICAgICB9XG5cbiAgICAgICAgICAuZG93bmxvYWQge1xuICAgICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgICAgfVxuXG4gICAgICAgICAgLmRsTG9nbyB7XG4gICAgICAgICAgICBoZWlnaHQ6IDY1cHhcbiAgICAgICAgICB9XG5cbiAgICAgICAgICAuZGxwIHtcbiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTJweFxuICAgICAgICAgIH1cblxuICAgICAgICAgIGFydGljbGUge1xuICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMWVtXG4gICAgICAgICAgfVxuXG4gICAgICAgIH1cblxuICAgICAgICBib2R5IHtcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMWMxZjJjO1xuICAgICAgICAgIGZvbnQtZmFtaWx5OiBoZWx2ZXRpY2E7XG4gICAgICAgIH1cbiAgICAgICAgXG4gICAgICAgIC5sYXlvdXQge1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgfVxuXG4gICAgICAgIHAge1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgICBjb2xvcjogd2hpdGU7XG4gICAgICAgICAgbGluZS1oZWlnaHQ6IDEuNTtcbiAgICAgICAgfVxuXG4gICAgICAgIGgxLCBoMiwgaDMge1xuICAgICAgICAgIGNvbG9yOiB3aGl0ZTtcbiAgICAgICAgICBsaW5lLWhlaWdodDogMS41O1xuICAgICAgICB9XG5cbiAgICAgICAgaDEge1xuICAgICAgICAgIGZvbnQtc2l6ZTogMzBweDtcbiAgICAgICAgICBmb250LXdlaWdodDogbGlnaHRlcjtcbiAgICAgICAgICB0ZXh0LXNoYWRvdzogMCAxNXB4IDE1cHggYmxhY2s7XG4gICAgICAgICAgbWFyZ2luLXRvcDogMTAwcHg7XG4gICAgICAgIH1cblxuICAgICAgICBoMiB7XG4gICAgICAgICAgZm9udC1zaXplOiAyMHB4O1xuICAgICAgICAgIHRleHQtc2hhZG93OiA1cHggMTBweCAxNXB4IGJsYWNrO1xuICAgICAgICB9XG4gICAgICAgIFxuICAgICAgICAuYmFubmVyIHtcbiAgICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcbiAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgICAgbWFyZ2luLWJvdHRvbTogMTAwcHg7XG4gICAgICAgICAgcGFkZGluZy10b3A6IDcwcHg7XG4gICAgICAgICAgbWFyZ2luLXRvcDogMzVweFxuICAgICAgICB9XG5cbiAgICAgICAgLmxvZ28ge1xuICAgICAgICAgIGhlaWdodDogMTUlO1xuICAgICAgICAgIHdpZHRoOiAxNSU7XG4gICAgICAgIH1cblxuICAgICAgICAudGV4dExvZ28ge1xuICAgICAgICAgIGhlaWdodDogNDAlO1xuICAgICAgICAgIHdpZHRoOiA0MCU7XG4gICAgICAgIH1cblxuXG4gICAgICAgIC5kZW1vIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjcyYjNkO1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgbWF4LXdpZHRoOiAxMDB2dztcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4O1xuICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XG4gICAgICAgICAgbWFyZ2luLWxlZnQ6IC0xNXB4O1xuICAgICAgICAgIG1hcmdpbi1yaWdodDogLTE1cHg7XG4gICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyO1xuICAgICAgICB9XG5cbiAgICAgICAgYXJ0aWNsZSB7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uO1xuICAgICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICAgIG1hcmdpbi1yaWdodDogNGVtO1xuICAgICAgICAgIG1hcmdpbi1sZWZ0OiA0ZW07XG4gICAgICAgICAgbWFyZ2luLXRvcDogLTEwcHg7XG4gICAgICAgICAgXG4gICAgICAgIH1cbiAgICAgICAgICBcbiAgICAgICAgY29kZSB7XG4gICAgICAgIGZvbnQtZmFtaWx5OiBDb3VyaWVyLCAnTmV3IENvdXJpZXInLCBtb25vc3BhY2U7XG4gICAgICAgIGZvbnQtc2l6ZTogMTJweDt9XG5cbiAgICAgICAgI2NvZGVTdHlsZXIge1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgICAgbWFyZ2luLXRvcDogMjBweFxuICAgICAgICAgIFxuICAgICAgICB9XG4gICAgICAgIHByZSB7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogYmxhY2s7XG4gICAgICAgICAgd2lkdGg6IDIwMHB4O1xuICAgICAgICAgIHBhZGRpbmc6IDBweCA1cHggNXB4XG4gICAgICAgIH1cblxuICAgICAgICBjb2RlIHtcbiAgICAgICAgICBjb2xvcjogbGltZWdyZWVuXG4gICAgICAgIH1cblxuICAgICAgICAuZGVtb0dpZiB7XG4gICAgICAgICAgd2lkdGg6IDUwJTtcbiAgICAgICAgICBoZWlnaHQ6IDUwJTtcbiAgICAgICAgICBib3gtc2hhZG93OiAwIDE0cHggMjVweCAxNXB4ICMxYzFmMmM7XG4gICAgICAgICAgYm9yZGVyLXJhZGl1czogNXB4O1xuICAgICAgICB9XG4gICAgICAgICNkZW1vR2lmMiB7XG4gICAgICAgICAgYm94LXNoYWRvdzogMCAxNHB4IDI1cHggMTVweCAjMTMxNDFjO1xuICAgICAgICB9XG5cbiAgICAgICAgI2ZpcnN0LCAjc2Vjb25kLCAjdGhpcmQge1xuICAgICAgICAgIHBhZGRpbmc6IDgwcHggMjVweCA4MHB4ICFpbXBvcnRhbnQ7XG4gICAgICAgICAgXG4gICAgICAgIH1cblxuICAgICAgICAjZmlyc3QsICN0aGlyZCB7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBwYWRkaW5nOiAxMHB4IDI1cHg7XG4gICAgICAgIH1cblxuICAgICAgICAjdGhpcmQge1xuICAgICAgICAgIG1hcmdpbi10b3A6IDEwcHhcbiAgICAgICAgfVxuXG4gICAgICAgICNzZWNvbmQge1xuICAgICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogIzFjMWYyYztcbiAgICAgICAgICBtYXJnaW4tbGVmdDogLTE1cHg7XG4gICAgICAgICAgbWFyZ2luLXJpZ2h0OiAtMTVweDtcbiAgICAgICAgICBcbiAgICAgICAgICBcbiAgICAgICAgfVxuXG4gICAgICAgIC5kbENvbnRhaW5lciB7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgICBwYWRkaW5nOiA4MHB4O1xuICAgICAgICB9XG5cbiAgICAgICAgLmRvd25sb2FkIHtcbiAgICAgICAgICB3aWR0aDogNTAwcHg7XG4gICAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47XG4gICAgICAgICAgcGFkZGluZzogMjVweDtcbiAgICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XG4gICAgICAgIH1cblxuICAgICAgICAuZGxwIHtcbiAgICAgICAgICBcbiAgICAgICAgfVxuXG4gICAgICAgIC5tYWMge1xuICAgICAgICB9XG5cbiAgICAgICAgLndpbmRvd3Mge1xuXG4gICAgICAgIH1cblxuICAgICAgICAubGludXgge1xuXG4gICAgICAgIH1cblxuICAgICAgICAuZGxMb2dvIHtcbiAgICAgICAgICBtYXgtaGVpZ2h0OiAxMDBweDtcbiAgICAgICAgICBtYXgtd2lkdGg6IDEwMHB4O1xuICAgICAgICB9XG5cbiAgICAgICAgLmZvb3RlciB7XG4gICAgICAgICAgdGV4dC1hbGlnbjpjZW50ZXI7XG4gICAgICAgIH1cblxuICAgICAgICBoNSB7XG4gICAgICAgICAgY29sb3I6IGdyYXk7XG4gICAgICAgICAgb3BhY2l0eTogMC41O1xuICAgICAgICB9XG5cbiAgICAgICAgYH1cbiAgICAgIDwvc3R5bGU+XG4gICAgPC9MYXlvdXQ+XG4gICAgPC9ib2R5PlxuICApXG59Il19 */\n/*@ sourceURL=/Users/ep/Codesmith/reactide-website/pages/index.js */")));
 }
 
 /***/ }),
