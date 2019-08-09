@@ -1,8 +1,9 @@
 const withImages = require('next-images');
 
-let images = withImages()
+const images = withImages()
+const env = process.env.NODE_ENV === 'production' ? '/{reactide-website}' : '';
 
 module.exports = {
   images,
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/{reactide-website}' : ''
+  assetPrefix: env
 };
