@@ -20,7 +20,7 @@ export default function Index() {
           }
 
           .demoGif {
-            min-width: 80vw
+            min-width: 90vw
           }
 
           .dlContainer {
@@ -42,7 +42,12 @@ export default function Index() {
           }
 
           article {
-            margin-bottom: 1em
+            width: 90vw;
+            margin-bottom: 1em;
+          }
+
+          .demo {
+          
           }
 
         }
