@@ -8,15 +8,46 @@ export default function Index() {
     <Layout className='layout'>
       <style jsx global>
         {`
+        body {
+          overflow-x: hidden;
+          margin:auto;
+        }
+
         @media screen and (max-width: 768px) {
+          
+          .logo {
+            height: 30% !important;
+            width: 30% !important;
+            margin-bottom: 2em;
+          }
+
+          .textLogo {
+            height: 75% !important;
+            width: 75% !important;
+          }
+
+          .banner {
+            padding: 0 10px
+          }
+
+          h1 {
+            font-size: 4vw !important;
+          }
+
           section {
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
+            
           }
+
           #second {
             flex-direction: column-reverse
+          }
+
+          .demo {
+            
           }
 
           .demoGif {
@@ -26,6 +57,7 @@ export default function Index() {
           .dlContainer {
             margin-top: -3em;
             margin-bottom: -3em;
+            
           }
 
           .download {
@@ -46,9 +78,6 @@ export default function Index() {
             margin-bottom: 1em;
           }
 
-          .demo {
-          
-          }
 
         }
 
@@ -75,7 +104,7 @@ export default function Index() {
         }
 
         h1 {
-          font-size: 30px;
+          font-size: 2vw;
           font-weight: lighter;
           text-shadow: 0 15px 15px black;
           margin-top: 100px;
@@ -95,11 +124,13 @@ export default function Index() {
           margin-bottom: 100px;
           padding-top: 70px;
           margin-top: 35px
+          
         }
 
         .logo {
           height: 15%;
           width: 15%;
+          margin-bottom: 2em;
         }
 
         .textLogo {
@@ -171,14 +202,17 @@ export default function Index() {
         }
 
         #third {
+          display: flex;
+          justify-content: space-between;
           margin-top: 10px
         }
+
 
         #second {
           display: flex;
           background-color: #1c1f2c;
-          margin-left: -15px;
-          margin-right: -15px;
+          
+          
           
           
         }
@@ -186,14 +220,21 @@ export default function Index() {
         .dlContainer {
           display: flex;
           justify-content: center;
+          flex-direction: column;
+          align-content: center;
           padding: 80px;
+        }
+        
+        h3{
+          align-self: center;
         }
 
         .download {
+          align-self:center;
           width: 500px;
           display: flex;
           justify-content: space-between;
-          padding: 25px;
+          padding: 25px 25px 0px 25px;
           text-align: center;
         }
 
@@ -202,14 +243,15 @@ export default function Index() {
         }
 
         .mac {
+          padding: 1em;
         }
 
         .windows {
-
+          padding: 1em;
         }
 
         .linux {
-
+          padding: 1em;
         }
 
         .dlLogo {
@@ -217,8 +259,14 @@ export default function Index() {
           max-width: 100px;
         }
 
+        h3 {
+          text-shadow: 5px 10px 15px black;
+        }
+
         .footer {
           text-align:center;
+          padding-bottom: 25px;
+          margin-top: -25px;
         }
 
         h5 {

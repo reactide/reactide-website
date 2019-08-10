@@ -6,8 +6,8 @@ export default function Download() {
   return (
     <div className='dlContainer'>
 
+        <h3>Download</h3>
       <div className='download'>
-        
         <section className='mac'>
           <a href='https://github.com/reactide/reactide'>
             <img src={macLogo} className='dlLogo' />

@@ -5,7 +5,7 @@ import Footer from "./Footer";
 
 const Layout = props => {
   return (
-    <div>
+    <div className='app'>
       <Banner />
       <Demo />
       <Download />

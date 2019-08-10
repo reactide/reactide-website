@@ -21,7 +21,7 @@ export default function Demo() {
       <article>
         <h2>Streamlined configurations</h2>
         <p>
-        Save time on setting up configurations through Reactide's built-in NPM package that automates most of the process for you. All that is needed for getting started is to change the .js and .html entry points inside Reactide's universal configuration. Once those entry points are changed, go ahead and run:
+       To get started, just input your .js and .html entry points inside Reactide's universal configuration. Once those entry points are changed, go ahead and run:
         <div id="codeStyler">
           <pre>
             <code>npm run reactide-server</code>
@@ -38,7 +38,7 @@ export default function Demo() {
         Navigate through a live-representation of your app’s architecture.
         </p>
       </article>
-    <img src={demo4} className='demoGif' />
+    <img src={demo4} className='demoGif' id='thirdGif'/>
     </section>
     </div>
   )
