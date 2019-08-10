@@ -1,10 +1,12 @@
 import Layout from "../components/Layout";
-import Banner from "../components/Banner";
+import Head from 'next/head';
 
 export default function Index() {
-  return(
+  return(    
     <body>
-
+    <Head>
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+    </Head>
     <Layout className='layout'>
       <style jsx global>
         {`
@@ -266,7 +268,7 @@ export default function Index() {
 
         .footer {
           text-align:center;
-          padding-bottom: 25px;
+          margin-bottom: 25px;
           margin-top: -25px;
         }
 
@@ -275,8 +277,10 @@ export default function Index() {
           opacity: 0.5;
         }
 
+
         `}
       </style>
+      
     </Layout>
     </body>
   )

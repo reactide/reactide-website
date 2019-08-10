@@ -9,6 +9,8 @@ export default function Footer() {
       <a href='https://github.com/reactide/reactide'>
       <img src={github} />
       </a>
+      <br></br>
+      <a class="github-button" href="https://github.com/reactide/reactide" data-icon="octicon-star" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
     </div>
   )
 }
