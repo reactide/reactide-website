@@ -173,6 +173,7 @@ export default function Index() {
         }
         pre {
           background-color: black;
+          border-radius: 3px;
           width: 200px;
           padding: 0px 5px 5px
         }
