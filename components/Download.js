@@ -9,7 +9,7 @@ export default function Download() {
         <h3>Download</h3>
       <div className='download'>
         <section className='mac'>
-          <a href='https://github.com/reactide/reactide'>
+          <a href='https://github.com/reactide/reactide/releases/download/v3.0-alpha/Reactide-3.0.0.dmg'>
             <img src={macLogo} className='dlLogo' />
             <p className='dlp'>macOS 10.10+</p>
           </a>
