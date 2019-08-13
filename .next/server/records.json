@@ -15,18 +15,10 @@
   },
   "chunks": {
     "byName": {
-      "static/Ev1iZM6pfRq-durZO76ci/pages/_app.js": 0,
-      "static/Ev1iZM6pfRq-durZO76ci/pages/_document.js": 1,
-      "static/Ev1iZM6pfRq-durZO76ci/pages/_error.js": 2,
-      "static/Ev1iZM6pfRq-durZO76ci/pages/index.js": 3,
-      "static/Z7UJpKr201toNxs6fPfJ1/pages/_app.js": 4,
-      "static/Z7UJpKr201toNxs6fPfJ1/pages/_document.js": 5,
-      "static/Z7UJpKr201toNxs6fPfJ1/pages/_error.js": 6,
-      "static/Z7UJpKr201toNxs6fPfJ1/pages/index.js": 7,
-      "static/FEjthUQ-cRzjnA-VgOmLH/pages/_app.js": 0,
-      "static/FEjthUQ-cRzjnA-VgOmLH/pages/_document.js": 1,
-      "static/FEjthUQ-cRzjnA-VgOmLH/pages/_error.js": 2,
-      "static/FEjthUQ-cRzjnA-VgOmLH/pages/index.js": 3
+      "static/Npnuage3N5vBGeOR84vrU/pages/_app.js": 0,
+      "static/Npnuage3N5vBGeOR84vrU/pages/_document.js": 1,
+      "static/Npnuage3N5vBGeOR84vrU/pages/_error.js": 2,
+      "static/Npnuage3N5vBGeOR84vrU/pages/index.js": 3
     },
     "bySource": {},
     "usedIds": [

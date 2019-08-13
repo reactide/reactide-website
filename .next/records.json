@@ -7,16 +7,10 @@
     "byName": {
       "commons": 0,
       "static/runtime/webpack.js": 1,
-      "static/Ev1iZM6pfRq-durZO76ci/pages/_app.js": 2,
-      "static/Ev1iZM6pfRq-durZO76ci/pages/_error.js": 3,
-      "static/Ev1iZM6pfRq-durZO76ci/pages/index.js": 4,
-      "static/runtime/main.js": 5,
-      "static/Z7UJpKr201toNxs6fPfJ1/pages/_app.js": 6,
-      "static/Z7UJpKr201toNxs6fPfJ1/pages/_error.js": 7,
-      "static/Z7UJpKr201toNxs6fPfJ1/pages/index.js": 8,
-      "static/FEjthUQ-cRzjnA-VgOmLH/pages/_app.js": 2,
-      "static/FEjthUQ-cRzjnA-VgOmLH/pages/_error.js": 3,
-      "static/FEjthUQ-cRzjnA-VgOmLH/pages/index.js": 4
+      "static/Npnuage3N5vBGeOR84vrU/pages/_app.js": 2,
+      "static/Npnuage3N5vBGeOR84vrU/pages/_error.js": 3,
+      "static/Npnuage3N5vBGeOR84vrU/pages/index.js": 4,
+      "static/runtime/main.js": 5
     },
     "bySource": {},
     "usedIds": [

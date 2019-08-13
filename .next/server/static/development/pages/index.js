@@ -428,7 +428,7 @@ function Download() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/reactide/reactide",
+    href: "https://github.com/reactide/reactide/releases/download/v3.0-alpha/Reactide-3.0.0.dmg",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
