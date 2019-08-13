@@ -15,10 +15,10 @@
   },
   "chunks": {
     "byName": {
-      "static/Npnuage3N5vBGeOR84vrU/pages/_app.js": 0,
-      "static/Npnuage3N5vBGeOR84vrU/pages/_document.js": 1,
-      "static/Npnuage3N5vBGeOR84vrU/pages/_error.js": 2,
-      "static/Npnuage3N5vBGeOR84vrU/pages/index.js": 3
+      "static/6JF6iKWrE856NYvNWa67E/pages/_app.js": 0,
+      "static/6JF6iKWrE856NYvNWa67E/pages/_document.js": 1,
+      "static/6JF6iKWrE856NYvNWa67E/pages/_error.js": 2,
+      "static/6JF6iKWrE856NYvNWa67E/pages/index.js": 3
     },
     "bySource": {},
     "usedIds": [

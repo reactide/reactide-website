@@ -1,4 +1,4 @@
-import github from '../assets/images/github-logo.png'
+import github from '/Users/ep/Codesmith/reactide-website/assets/images/github-logo.png'
 
 export default function Footer() {
   return (

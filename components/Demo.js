@@ -1,8 +1,7 @@
-import gif from '../assets/images/reactide-screenshot2.png';
-import demo from '../assets/images/reactide-demo.png';
-import demo2 from '../assets/images/reactide-demo2.png';
-import demo3 from '../assets/images/reactide-demo3.png';
-import demo4 from '../assets/images/reactide-demo4.png';
+import demo from '/Users/ep/Codesmith/reactide-website/assets/images/reactide-demo.png';
+import demo3 from '/Users/ep/Codesmith/reactide-website/assets/images/reactide-demo3.png';
+import demo4 from '/Users/ep/Codesmith/reactide-website/assets/images/reactide-demo4.png';
+
 export default function Demo() {
   return (
     <div className='demo'>
