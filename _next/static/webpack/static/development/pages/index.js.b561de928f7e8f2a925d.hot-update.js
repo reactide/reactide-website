@@ -52,7 +52,7 @@ function Footer() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    "class": "github-button",
+    className: "github-button",
     href: "https://github.com/reactide/reactide",
     "data-icon": "octicon-star",
     "data-show-count": "true",
@@ -68,4 +68,4 @@ function Footer() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.00caf1377bd5acc9accf.hot-update.js.map
+//# sourceMappingURL=index.js.b561de928f7e8f2a925d.hot-update.js.map
