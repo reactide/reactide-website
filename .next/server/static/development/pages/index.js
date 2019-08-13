@@ -249,7 +249,7 @@ function Demo() {
     },
     __self: this
   }, "Reactide runs an integrated Node server and custom browser simulator eliminating the need to configure any servers, build-tools, and even offers hot module reloading right out of the box.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _Users_ep_Codesmith_reactide_website_assets_images_reactide_demo_png__WEBPACK_IMPORTED_MODULE_1___default.a,
+    src: "https://i.imgur.com/5Oxprg2.png",
     className: "demoGif",
     __source: {
       fileName: _jsxFileName,
@@ -264,7 +264,7 @@ function Demo() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _Users_ep_Codesmith_reactide_website_assets_images_reactide_demo3_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    src: "https://i.imgur.com/bbQyB5o.png",
     className: "demoGif",
     id: "demoGif2",
     __source: {
@@ -335,7 +335,7 @@ function Demo() {
     },
     __self: this
   }, "Navigate through a live-representation of your app\u2019s architecture.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _Users_ep_Codesmith_reactide_website_assets_images_reactide_demo4_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    src: "https://i.imgur.com/EAjAPdx.png",
     className: "demoGif",
     id: "thirdGif",
     __source: {
@@ -407,7 +407,7 @@ function Download() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_apple_logo_png__WEBPACK_IMPORTED_MODULE_1___default.a,
+    src: "https://i.imgur.com/g39evfL.png",
     className: "dlLogo",
     __source: {
       fileName: _jsxFileName,
@@ -436,7 +436,7 @@ function Download() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_windows_logo_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    src: "https://i.imgur.com/eokPg8w.png",
     className: "dlLogo",
     __source: {
       fileName: _jsxFileName,
@@ -465,7 +465,7 @@ function Download() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _assets_images_linux_logo_png__WEBPACK_IMPORTED_MODULE_3___default.a,
+    src: "https://i.imgur.com/NNIez7Y.png",
     className: "dlLogo",
     __source: {
       fileName: _jsxFileName,
@@ -523,7 +523,7 @@ function Footer() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _Users_ep_Codesmith_reactide_website_assets_images_github_logo_png__WEBPACK_IMPORTED_MODULE_1___default.a,
+    src: "https://i.imgur.com/SGjW0Lo.png",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -649,7 +649,7 @@ function Banner() {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _Users_ep_Codesmith_reactide_website_assets_images_reactide_text_logo_png__WEBPACK_IMPORTED_MODULE_1___default.a,
+    src: "https://i.imgur.com/VJVeX0f.png",
     className: "textLogo",
     __source: {
       fileName: _jsxFileName,

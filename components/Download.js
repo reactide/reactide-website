@@ -10,21 +10,21 @@ export default function Download() {
       <div className='download'>
         <section className='mac'>
           <a href='https://github.com/reactide/reactide/releases/download/v3.0-alpha/Reactide-3.0.0.dmg'>
-            <img src={macLogo} className='dlLogo' />
+            <img src='https://i.imgur.com/g39evfL.png' className='dlLogo' />
             <p className='dlp'>macOS 10.10+</p>
           </a>
         </section>
 
         <section className='windows'>
           <a href='https://github.com/reactide/reactide'>
-            <img src={windowsLogo} className='dlLogo' />
+            <img src='https://i.imgur.com/eokPg8w.png' className='dlLogo' />
             <p className='dlp'>Windows 7, 8, 10</p>
           </a>
         </section>
         
         <section className='linux'>
           <a href='https://github.com/reactide/reactide'>
-            <img src={linuxLogo} className='dlLogo' />
+            <img src='https://i.imgur.com/NNIez7Y.png' className='dlLogo' />
             <p className='dlp'>Debian, Ubuntu</p>
           </a>
         </section>

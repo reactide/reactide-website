@@ -5,7 +5,7 @@ export default function Banner() {
   return (
     <div className='banner'>
       <img src='https://i.imgur.com/HRNmuJs.png' className='logo' />
-      <img src={textLogo} className='textLogo' />
+      <img src='https://i.imgur.com/VJVeX0f.png' className='textLogo' />
       <h1>The first dedicated IDE for React web application development</h1>
       
     </div>

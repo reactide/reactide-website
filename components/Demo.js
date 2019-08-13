@@ -12,11 +12,11 @@ export default function Demo() {
             Reactide runs an integrated Node server and custom browser simulator eliminating the need to configure any servers, build-tools, and even offers hot module reloading right out of the box.
           </p>
         </article>
-        <img src={demo} className='demoGif' />
+        <img src='https://i.imgur.com/5Oxprg2.png' className='demoGif' />
       </section>
 
     <section id='second'>
-      <img src={demo3} className='demoGif' id='demoGif2' />
+      <img src='https://i.imgur.com/bbQyB5o.png' className='demoGif' id='demoGif2' />
       <article>
         <h2>Streamlined configurations</h2>
         <p>
@@ -37,7 +37,7 @@ export default function Demo() {
         Navigate through a live-representation of your app’s architecture.
         </p>
       </article>
-    <img src={demo4} className='demoGif' id='thirdGif'/>
+    <img src='https://i.imgur.com/EAjAPdx.png' className='demoGif' id='thirdGif'/>
     </section>
     </div>
   )
