@@ -4,7 +4,7 @@ import logo from '/Users/ep/Codesmith/reactide-website/assets/images/reactide-lo
 export default function Banner() {
   return (
     <div className='banner'>
-      <img src={logo} className='logo' />
+      <img src='https://i.imgur.com/HRNmuJs.png' className='logo' />
       <img src={textLogo} className='textLogo' />
       <h1>The first dedicated IDE for React web application development</h1>
       

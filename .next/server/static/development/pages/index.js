@@ -641,7 +641,7 @@ function Banner() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: _Users_ep_Codesmith_reactide_website_assets_images_reactide_logo_png__WEBPACK_IMPORTED_MODULE_2___default.a,
+    src: "https://i.imgur.com/HRNmuJs.png",
     className: "logo",
     __source: {
       fileName: _jsxFileName,
