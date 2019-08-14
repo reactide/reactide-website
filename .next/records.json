@@ -7,22 +7,19 @@
     "byName": {
       "commons": 0,
       "static/runtime/webpack.js": 1,
-      "static/44cktGyv1fzvavlgbs15S/pages/_app.js": 2,
-      "static/44cktGyv1fzvavlgbs15S/pages/_error.js": 3,
-      "static/44cktGyv1fzvavlgbs15S/pages/index.js": 4,
-      "static/runtime/main.js": 5,
-      "static/EPgW-rdfDvrOnQCbq8KrF/pages/_app.js": 6,
-      "static/EPgW-rdfDvrOnQCbq8KrF/pages/_error.js": 7,
-      "static/EPgW-rdfDvrOnQCbq8KrF/pages/index.js": 8
+      "static/0EDowGh4WtqF6qprpDbKg/pages/_app.js": 2,
+      "static/0EDowGh4WtqF6qprpDbKg/pages/_error.js": 3,
+      "static/0EDowGh4WtqF6qprpDbKg/pages/index.js": 4,
+      "static/runtime/main.js": 5
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      5,
-      6,
-      7,
-      8
+      2,
+      3,
+      4,
+      5
     ]
   }
 }

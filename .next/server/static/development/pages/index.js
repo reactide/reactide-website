@@ -249,7 +249,7 @@ function Demo() {
     },
     __self: this
   }, "Reactide runs an integrated Node server and custom browser simulator eliminating the need to configure any servers, build-tools, and even offers hot module reloading right out of the box.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
-    src: "https://i.imgur.com/5Oxprg2.png",
+    src: "https://i.imgur.com/tYKy7mX.png",
     className: "demoGif",
     __source: {
       fileName: _jsxFileName,
@@ -400,7 +400,7 @@ function Download() {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/reactide/reactide/releases/download/v3.0-alpha/Reactide-3.0.0.dmg",
+    href: "https://github.com/reactide/reactide/releases/download/v3.0-beta/Reactide-3.0.0.dmg",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 12
@@ -637,7 +637,7 @@ function Banner() {
     className: "banner",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6
+      lineNumber: 8
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -645,7 +645,7 @@ function Banner() {
     className: "logo",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 7
+      lineNumber: 9
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
@@ -653,13 +653,13 @@ function Banner() {
     className: "textLogo",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 10
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 11
     },
     __self: this
   }, "The first dedicated IDE for React web application development"));

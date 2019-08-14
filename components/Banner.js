@@ -1,6 +1,8 @@
 import textLogo from '/Users/ep/Codesmith/reactide-website/assets/images/reactide-text-logo.png'
 import logo from '/Users/ep/Codesmith/reactide-website/assets/images/reactide-logo.png'
 
+
+
 export default function Banner() {
   return (
     <div className='banner'>
