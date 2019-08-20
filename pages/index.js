@@ -16,7 +16,9 @@ export default function Index() {
         }
 
         @media screen and (max-width: 768px) {
-          
+          body {
+            overflow-x: hidden;
+          }
           .logo {
             height: 30% !important;
             width: 30% !important;
